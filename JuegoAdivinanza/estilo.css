@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: rgb(20, 173, 179);
+  }
+  h1 {
+    font-size: 4em;
+  }
+  p {
+    font-size: 2em;
+  }
